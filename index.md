@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Üdvözöl Ogulilamelime-Minecraft-Mod 
 
-You can use the [editor on GitHub](https://github.com/krisztiantoth966/Ogulilamelime-Minecraft-Mod/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Saját Minecraft Mod diszkord szerverünkhez Discord Játék tevékenység muatása Discord csatlakozás 100 emberre
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Discord invite : https://discord.gg/mXMGMjZNmy
 
-### Markdown
+### Miért pont ezt?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tört minecrat mod amiben integrálva van a Discord Rich Presence ennek a segítségével össze kötheted a discorddal
 
 ```markdown
-Syntax highlighted code block
+![](https://i.imgur.com/KYgJDka.png)
 
-# Header 1
-## Header 2
-### Header 3
+```
+```markdown
+![](https://i.imgur.com/Oa1OHyd.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+További részletekért lásd [GitHub Ogulilamelime-mod](https://github.com/krisztiantoth966/Ogulilamelime-Minecraft-Mod).
 
-### Jekyll Themes
+### Támogatás vagy kapcsolatfelvétel
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krisztiantoth966/Ogulilamelime-Minecraft-Mod/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Gondjai vannak a mod-al? Nézze meg a mi oldalunkat [documentation](https://github.com/krisztiantoth966/Ogulilamelime-Minecraft-Mod/wiki) vagy [lépjen kapcsolatba az ügyfélszolgálattal](https://github.com/krisztiantoth966) és segítünk rendezni.
