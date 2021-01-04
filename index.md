@@ -9,9 +9,7 @@ Discord invite :[Csatlakozás a Discordhoz](https://discord.gg/mXMGMjZNmy)
 Tört minecrat mod amiben integrálva van a Discord Rich Presence ennek a segítségével össze kötheted a discorddal
 
 
-
-  ![img](https://i.imgur.com/Oa1OHyd.png)
-
+![img](https://i.imgur.com/Oa1OHyd.png)
 
 ![img](https://i.imgur.com/KYgJDka.png)
 
