@@ -5,5 +5,5 @@ Discord csatlakozás 100 emberre
 
 
 
-Discord invite : https://discord.gg/mXMGMjZNmy
+Discord invite : https://discord.gg/BcB2SG6wzu
 
